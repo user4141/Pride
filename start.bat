@@ -1,0 +1,2 @@
+node credit.js
+pause
